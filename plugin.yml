@@ -1,0 +1,9 @@
+name: HubSystem
+version: 1.0.0
+main: hub\hubsystem
+author: Darxs
+api: [3.2.3]
+
+commands:
+ hub:
+  description: "commando para volver al lobby/hub" 
